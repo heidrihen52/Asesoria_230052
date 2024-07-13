@@ -1,8 +1,8 @@
-# Backend ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+# FrondEnd ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 En este folder encontraremos los archivos que dan estilo a las aplicaciones web, incluyendo tipografia, colores, dimenciones y animaciones de interaccion
 ## estructura de archivos 
-
+git
 >Integradora1-Asesoria<br>
 >| - Backend <br>
 >| - Database<br>
